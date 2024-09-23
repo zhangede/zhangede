@@ -3,6 +3,7 @@
   I use Manjaro as my OS
 
 I do usually
+
 Angular programming with visual Studio Code
 
 Android programming with android studio 
