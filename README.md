@@ -2,15 +2,10 @@
 
   I use Manjaro as my OS
 
-  I am wrting with Angular
-
-  
-
-  
-  
-
-
-
+I do usually
+Angular programming with visual Studio Code
+Android programming with android studio 
+ASP.net progromming with visual studio 2022
   
 <!---
 zhangede/zhangede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
